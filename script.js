@@ -14,7 +14,7 @@ const getReceipe = async() => {
     setTimeout(()=>{
     console.log(data.setup)
     console.log(data.punchline)
-},3000)
+},2000)
     one.innerHTML = data.setup;
     two.innerHTML = data.punchline;
 
