@@ -1,0 +1,39 @@
+.container{
+      width: 500px;
+      height: 500px;
+      border: 2px solid black;
+      border-radius: 5px;
+      background-color: aqua;
+      position: relative;
+      left: 200px;
+      top: 100px;
+}
+
+
+
+button{
+       
+      position: relative;
+      left: 200px;
+      font-size:20px ;
+      top: 400px;
+}
+
+.one{
+
+      text-align: center;
+      position: relative;
+      top:80px
+}
+
+.two{
+      text-align: center;
+      position: relative;
+      top: 100px;
+}
+
+h3{
+      position: relative;
+      top: 100px;
+      text-align: center;
+}
