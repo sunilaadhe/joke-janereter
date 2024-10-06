@@ -29,7 +29,8 @@ button{
       font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
       color: hotpink;
       background-color:darkturquoise;
-      box-shadow:  0 0 3px #FF0000, 0 0 5px #0000FF;
+      box-shadow: 5px 5px blue, 10px 10px red, 15px 15px green;
+
 }
 
 .one{
